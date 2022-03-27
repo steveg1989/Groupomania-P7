@@ -1,8 +1,10 @@
-import "./styles.scss";
-import './App.css';
-
 function App() {
-  return <div className="App">APP</div>;
+  
+  return (
+		<div className="App">
+			<h1>Groupomania</h1>
+		</div>
+	);
 
 }
 
