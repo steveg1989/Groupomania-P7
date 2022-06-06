@@ -36,7 +36,7 @@ const NavBar = () => {
 					<li></li>
 					<li className="welcome">
 						<NavLink to="/profile">
-							<h5>Welcome USER</h5>
+							
               <img className="profile-pic" src="./assets/img/default-profile.jpeg" alt="profile-pic" />
 						</NavLink>
 					</li>
